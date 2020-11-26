@@ -21,14 +21,14 @@
 [<img align="left" alt="js" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />]() 
 [<img align="left" alt="html" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" />]() 
 [<img align="left" alt="css" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" />]() 
-[<img align="left" alt="php" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg " />]() 
+[<img align="left" alt="php" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" />]() 
 [<img align="left" alt="R" width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />]() 
 [<img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />]() 
 [<img align="left" alt="mysql" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />]() 
 [<img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />]() 
 [<img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161115.svg" />]() 
 [<img align="left" alt="docker" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" />]() 
-[<img align="left" alt="pbi" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg " />]() 
+[<img align="left" alt="pbi" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />]() 
 [<img align="left" alt="Github" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" />]()
 
 
