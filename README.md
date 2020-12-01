@@ -1,6 +1,6 @@
 # [Hello there](https://thumbs.gfycat.com/FreshGleamingFulmar-size_restricted.gif)
 
-## I'm Thiago Carvalho a data geek 
+## I'm Thiago Carvalho a data geek with a passion for data visualization
   
 - I develop custom data visualizations, dashboards, and web scrapers.
 - I write articles, tutorials, and analytical reports.
