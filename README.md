@@ -9,9 +9,9 @@
   
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />][reddit]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 
@@ -40,11 +40,11 @@
 ### 📕 Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Basics of GIFs with Python’s Matplotlib](https://towardsdatascience.com/basics-of-gifs-with-pythons-matplotlib-54dd544b6f30)
 - [How to Create Eye-Catching Maps With Python and Kepler.gl](https://medium.com/nightingale/how-to-create-eye-catching-maps-with-python-and-kepler-gl-e7e897eff8ac)
 - [Sankey Diagram Basics with Python’s Plotly](https://towardsdatascience.com/sankey-diagram-basics-with-pythons-plotly-7a13d557401a)
 - [Stacked Bar Charts with Python’s Matplotlib](https://towardsdatascience.com/stacked-bar-charts-with-pythons-matplotlib-f4020e4eb4a7)
 - [Quick and Easy API with Python’s Flask](https://medium.com/python-in-plain-english/quick-and-easy-api-with-pythons-flask-dbf9eef79acc)
-- [Joining Datasets with Python’s Pandas](https://towardsdatascience.com/joining-datasets-with-pythons-pandas-ed832f01450c)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thiago-bernardes-carvalho.medium.com/)
