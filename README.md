@@ -40,11 +40,11 @@
 ### 📕 Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Intersections and Overlaps with Python](https://towardsdatascience.com/visualizing-intersections-and-overlaps-with-python-a6af49c597d9)
+- [Funnel charts with Python](https://towardsdatascience.com/funnel-charts-with-python-1ef1a2b183ab)
 - [Basics of GIFs with Python’s Matplotlib](https://towardsdatascience.com/basics-of-gifs-with-pythons-matplotlib-54dd544b6f30)
 - [How to Create Eye-Catching Maps With Python and Kepler.gl](https://medium.com/nightingale/how-to-create-eye-catching-maps-with-python-and-kepler-gl-e7e897eff8ac)
 - [Sankey Diagram Basics with Python’s Plotly](https://towardsdatascience.com/sankey-diagram-basics-with-pythons-plotly-7a13d557401a)
-- [Stacked Bar Charts with Python’s Matplotlib](https://towardsdatascience.com/stacked-bar-charts-with-pythons-matplotlib-f4020e4eb4a7)
-- [Quick and Easy API with Python’s Flask](https://medium.com/python-in-plain-english/quick-and-easy-api-with-pythons-flask-dbf9eef79acc)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thiago-bernardes-carvalho.medium.com/)
