@@ -50,7 +50,7 @@
 ➡️ [more blog posts...](https://thiago-bernardes-carvalho.medium.com/)
 
 ---
-
+Liked my work and wanna say thanks? [Buy me a coffee](https://ko-fi.com/thiagobc23) :)
 <details>
   <summary>GitHub Stats</summary>
 
