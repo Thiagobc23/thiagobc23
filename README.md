@@ -40,6 +40,7 @@
 ### 📕 Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plotting the same chart with Matplotlib and ggplot2](https://towardsdatascience.com/plotting-the-same-chart-with-matplotlib-and-ggplot2-7261dc9e0e7b)
 - [Visualizing Intersections and Overlaps with Python](https://towardsdatascience.com/visualizing-intersections-and-overlaps-with-python-a6af49c597d9)
 - [Funnel charts with Python](https://towardsdatascience.com/funnel-charts-with-python-1ef1a2b183ab)
 - [Basics of GIFs with Python’s Matplotlib](https://towardsdatascience.com/basics-of-gifs-with-pythons-matplotlib-54dd544b6f30)
