@@ -4,7 +4,7 @@
   
 - I develop custom data visualizations, dashboards, and web scrapers.
 - I write articles, tutorials, and analytical reports.
-- I’m currently learning more about R
+- I’m currently learning more about Blender
 - I’m looking to collaborate with other content creators
   
 ### Connect with me:
@@ -40,10 +40,10 @@
 ### 📕 Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Plotting the same chart with Matplotlib and ggplot2](https://towardsdatascience.com/plotting-the-same-chart-with-matplotlib-and-ggplot2-7261dc9e0e7b)
-- [Visualizing Intersections and Overlaps with Python](https://towardsdatascience.com/visualizing-intersections-and-overlaps-with-python-a6af49c597d9)
-- [Funnel charts with Python](https://towardsdatascience.com/funnel-charts-with-python-1ef1a2b183ab)
-- [Basics of GIFs with Python’s Matplotlib](https://towardsdatascience.com/basics-of-gifs-with-pythons-matplotlib-54dd544b6f30)
+- [Plotting live data with Matplotlib](https://towardsdatascience.com/plotting-live-data-with-matplotlib-d871fac7500b)
+- [Texts, Fonts, and Annotations with Python’s Matplotlib](https://towardsdatascience.com/texts-fonts-and-annotations-with-pythons-matplotlib-dfbdea19fc57)
+- [Visualizing Clusters with Python’s Matplotlib](https://towardsdatascience.com/visualizing-clusters-with-pythons-matplolib-35ae03d87489)
+- [Grouping data with R](https://towardsdatascience.com/grouping-data-with-r-ef95cee48dc6)
 - [How to Create Eye-Catching Maps With Python and Kepler.gl](https://medium.com/nightingale/how-to-create-eye-catching-maps-with-python-and-kepler-gl-e7e897eff8ac)
 - [Sankey Diagram Basics with Python’s Plotly](https://towardsdatascience.com/sankey-diagram-basics-with-pythons-plotly-7a13d557401a)
 <!-- BLOG-POST-LIST:END -->
