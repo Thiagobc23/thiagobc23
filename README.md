@@ -40,12 +40,11 @@
 ### 📕 Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slope charts with Python’s Matplotlib](https://towardsdatascience.com/slope-charts-with-pythons-matplotlib-2c3456c137b8)
+- [Basics of OHLC charts with Python’s Matplotlib](https://towardsdatascience.com/basics-of-ohlc-charts-with-pythons-matplotlib-56d0e745a5be)
+- [Lollipop Charts with Python’s Matplotlib](https://medium.com/star-gazers/lollipop-charts-with-pythons-matplotlib-dbe9715c0840)
 - [Plotting live data with Matplotlib](https://towardsdatascience.com/plotting-live-data-with-matplotlib-d871fac7500b)
 - [Texts, Fonts, and Annotations with Python’s Matplotlib](https://towardsdatascience.com/texts-fonts-and-annotations-with-pythons-matplotlib-dfbdea19fc57)
-- [Visualizing Clusters with Python’s Matplotlib](https://towardsdatascience.com/visualizing-clusters-with-pythons-matplolib-35ae03d87489)
-- [Grouping data with R](https://towardsdatascience.com/grouping-data-with-r-ef95cee48dc6)
-- [How to Create Eye-Catching Maps With Python and Kepler.gl](https://medium.com/nightingale/how-to-create-eye-catching-maps-with-python-and-kepler-gl-e7e897eff8ac)
-- [Sankey Diagram Basics with Python’s Plotly](https://towardsdatascience.com/sankey-diagram-basics-with-pythons-plotly-7a13d557401a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thiago-bernardes-carvalho.medium.com/)
