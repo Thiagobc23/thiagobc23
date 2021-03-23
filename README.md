@@ -5,7 +5,6 @@
 - I develop custom data visualizations, dashboards, and web scrapers.
 - I write articles, tutorials, and analytical reports.
 - I’m currently learning more about Blender
-- I’m looking to collaborate with other content creators
   
 ### Connect with me:
 
