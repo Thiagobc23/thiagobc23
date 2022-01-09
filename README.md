@@ -16,11 +16,12 @@
 ### Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 
 - [Gantt charts with Python’s Matplotlib](https://towardsdatascience.com/gantt-charts-with-pythons-matplotlib-395b7af72d72)
 - [Ridge Plots with Python’s Seaborn](https://python.plainenglish.io/ridge-plots-with-pythons-seaborn-4de5725881af)
-- [Basics of Donut charts with Python’s Matplotlib](https://towardsdatascience.com/basics-of-donut-charts-with-pythons-matplotlib-100cf71b259d)
+- [Exploring Line Charts with Python's Matplotlib](https://towardsdatascience.com/exploring-line-charts-with-pythons-matplotlib-4b911cf6b4bc)
 - [Tooltips with Python’s Matplotlib](https://towardsdatascience.com/tooltips-with-pythons-matplotlib-dcd8db758846)
-- [Beautiful Ridge maps with Python](https://towardsdatascience.com/beautiful-ridge-maps-with-python-640906a30e10)
+- [Better annotations with Python’s Matplotlib](https://towardsdatascience.com/better-annotations-with-pythons-matplotlib-46815ce098df)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thiago-bernardes-carvalho.medium.com/)
