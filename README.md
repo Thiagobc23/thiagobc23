@@ -1,6 +1,6 @@
 # [Hello there](https://thumbs.gfycat.com/FreshGleamingFulmar-size_restricted.gif)
 
-## I'm Thiago Carvalho [<img align="right" alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+## I'm Thiago Carvalho [<img align="right" alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] [<img align="right" alt="Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter] [<img align="right" alt="Medium" width="22px" src="https://i.imgur.com/FnkgLO5.png" />][medium]  
   
 - I develop custom data visualizations, dashboards, and web scrapers.
 - I write articles, tutorials, and analytical reports.
@@ -38,3 +38,4 @@
 [medium]: https://thiago-bernardes-carvalho.medium.com/
 [reddit]: https://www.reddit.com/user/thiagobc23
 [linkedin]: https://www.linkedin.com/in/thiagobcarvalho/
+[twitter]: https://twitter.com/thiagobc231
