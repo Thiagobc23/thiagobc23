@@ -16,7 +16,6 @@
 ### Some of my Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 
 - [Gantt charts with Python’s Matplotlib](https://towardsdatascience.com/gantt-charts-with-pythons-matplotlib-395b7af72d72)
 - [Ridge Plots with Python’s Seaborn](https://python.plainenglish.io/ridge-plots-with-pythons-seaborn-4de5725881af)
 - [Exploring Line Charts with Python's Matplotlib](https://towardsdatascience.com/exploring-line-charts-with-pythons-matplotlib-4b911cf6b4bc)
