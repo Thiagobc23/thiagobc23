@@ -2,7 +2,7 @@
 
 ## I'm Thiago Carvalho [<img align="right" alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] [<img align="right" alt="Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter] [<img align="right" alt="Medium" width="22px" src="https://i.imgur.com/FnkgLO5.png" />][medium] [<img align="right" alt="LinkTree" width="22px" src="https://assets.production.linktr.ee/82ca7e076b9fb226600cfb995e83243570a3549c/images/logo_trees.svg" />][linktree] 
   
-- I develop custom data visualizations, dashboards, and web scrapers. 📊📈
+- I design data visualizations, dashboards, and analytics solutions. 📊📈
 - I write articles, tutorials, and analytical reports.📝📖
 - On weekdays, I work mainly with SQL and Power BI, and on weekends with Python and Matplotlib. 🤖
 
